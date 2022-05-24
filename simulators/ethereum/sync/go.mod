@@ -3,21 +3,20 @@ module github.com/ethereum/hive/simulators/ethereum/sync
 go 1.17
 
 require (
-	github.com/ethereum/go-ethereum v1.10.15
+	github.com/ethereum/go-ethereum v1.10.17
 	github.com/ethereum/hive v0.0.0-20220202142700-64e211a795ba
 )
 
 require (
 	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
-	github.com/btcsuite/btcd v0.22.0-beta // indirect
-	github.com/deckarep/golang-set v1.7.1 // indirect
+	github.com/btcsuite/btcd/btcec/v2 v2.1.2 // indirect
+	github.com/deckarep/golang-set v1.8.0 // indirect
+	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1 // indirect
 	github.com/gballet/go-libpcsclite v0.0.0-20191108122812-4678299bea08 // indirect
 	github.com/go-ole/go-ole v1.2.5 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
-	github.com/google/uuid v1.2.0 // indirect
 	github.com/gorilla/websocket v1.4.2 // indirect
-	github.com/jackpal/go-nat-pmp v1.0.2 // indirect
 	github.com/onsi/gomega v1.10.3 // indirect
 	github.com/rjeczalik/notify v0.9.2 // indirect
 	github.com/shirou/gopsutil v3.21.4-0.20210419000835-c7a38de76ee5+incompatible // indirect
