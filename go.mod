@@ -13,15 +13,15 @@ require (
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
-	github.com/Microsoft/go-winio v0.5.1 // indirect
-	github.com/Microsoft/hcsshim v0.8.23 // indirect
+	github.com/Microsoft/go-winio v0.5.2 // indirect
+	github.com/Microsoft/hcsshim v0.8.25 // indirect
 	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
 	github.com/VictoriaMetrics/fastcache v1.6.0 // indirect
 	github.com/allegro/bigcache v1.2.1 // indirect
 	github.com/btcsuite/btcd v0.22.0-beta // indirect
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
-	github.com/containerd/cgroups v1.0.1 // indirect
-	github.com/containerd/containerd v1.5.9 // indirect
+	github.com/containerd/cgroups v1.0.3 // indirect
+	github.com/containerd/containerd v1.5.18 // indirect
 	github.com/deckarep/golang-set v1.7.1 // indirect
 	github.com/docker/docker v20.10.12+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
@@ -56,6 +56,6 @@ require (
 	github.com/tklauser/numcpus v0.2.2 // indirect
 	go.opencensus.io v0.22.3 // indirect
 	golang.org/x/crypto v0.0.0-20211202192323-5770296d904e // indirect
-	golang.org/x/sys v0.0.0-20211124211545-fe61309f8881 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f // indirect
 	gopkg.in/natefinch/npipe.v2 v2.0.0-20160621034901-c1b8fa8bdcce // indirect
 )
